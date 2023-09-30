@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6517d8638209e6ccfd143e03"
+  },
+  "product": "Smartphone",
+  "brand": "Apple",
+  "price": 799.99,
+  "origin": "China",
+  "warranty": "1 year limited"
+},
+{
+  "_id": {
+    "$oid": "6517d8638209e6ccfd143e04"
+  },
+  "product": "Laptop",
+  "brand": "HP",
+  "price": 1299.99,
+  "origin": "USA",
+  "warranty": "2 years onsite"
+},
+{
+  "_id": {
+    "$oid": "6517d8638209e6ccfd143e05"
+  },
+  "product": "Tablet",
+  "brand": "Samsung",
+  "price": 399.99,
+  "origin": "South Korea",
+  "warranty": "1 year limited"
+},
+{
+  "_id": {
+    "$oid": "6517d8638209e6ccfd143e06"
+  },
+  "product": "Smart TV",
+  "brand": "Sony",
+  "price": 899.99,
+  "origin": "Japan",
+  "warranty": "3 years manufacturer's"
+},
+{
+  "_id": {
+    "$oid": "6517d8638209e6ccfd143e07"
+  },
+  "product": "Headphones",
+  "brand": "Bose",
+  "price": 249.99,
+  "origin": "USA",
+  "warranty": "1 year limited"
+}]
